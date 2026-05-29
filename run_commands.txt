@@ -1,0 +1,34 @@
+Команды запуска лабораторных работ
+==================================
+
+Рабочий Python:
+C:\Users\MaXiM\AppData\Local\Programs\Python\Python313\python.exe
+
+
+Установка библиотек:
+--------------------
+& "C:\Users\MaXiM\AppData\Local\Programs\Python\Python313\python.exe" -m pip install numpy pygame PyOpenGL PyOpenGL_accelerate
+
+
+Лабораторная работа 2:
+----------------------
+& "C:\Users\MaXiM\AppData\Local\Programs\Python\Python313\python.exe" lab2\main.py
+
+
+Лабораторная работа 3:
+----------------------
+& "C:\Users\MaXiM\AppData\Local\Programs\Python\Python313\python.exe" lab3\main.py
+
+
+Лабораторная работа 4:
+----------------------
+.\run_lab4.bat
+
+Или напрямую:
+& "C:\Users\MaXiM\AppData\Local\Programs\Python\Python313\python.exe" lab4\main.py
+
+
+Важно:
+-------
+Команду py лучше не использовать, потому что сейчас она запускает Python 3.14,
+а pygame установлен в Python 3.13.
