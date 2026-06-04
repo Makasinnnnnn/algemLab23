@@ -22,7 +22,7 @@ C:\Users\MaXiM\AppData\Local\Programs\Python\Python313\python.exe
 
 Лабораторная работа 4:
 ----------------------
-.\run_lab4.bat
+.\lab4\run.bat
 
 Или напрямую:
 & "C:\Users\MaXiM\AppData\Local\Programs\Python\Python313\python.exe" lab4\main.py
